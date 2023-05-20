@@ -1,0 +1,5 @@
+f = open(r"C:\Users\lenovo\OneDrive\Desktop\github_py\que1.txt","w+")
+s=repr(f.read())
+f.write("i'm a boy")
+print(s)
+f.close()
