@@ -24,6 +24,6 @@ for i in range(x,y+1):
     print(xyz)
 print()
 # Q.14: Write a Python program to find first and last digit of a number.
-ls=[45,65,52,57,96,69]
-a=ls[0],ls[5]
-print(a)
+# ls=[45,65,52,57,96,69]
+# a=ls[0],ls[5]
+# print(a)
